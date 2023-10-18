@@ -1,22 +1,31 @@
 # Teori_PBO_Pert06
 Untuk memenuhi tugas teori PBO pertemuan 6
 
-# Hasil Run
+# Hasil Run Matrix
+## Penjumlahan Matrix
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/ac550a3a-3334-46dd-9ad8-942987dde22d)
 
-Matriks A:
+## Pengurangan Matrix
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/dc9a5f86-f7ed-4050-a1e5-5e5dd73613ec)
 
--  [ 1/2 3/4 1/6 ]
--  [ 2/3 5/6 7/8 ]
--  [ 1/4 1/2 3/4 ]
+## Transpose Matrix A
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/291a99e9-f714-4e26-9849-fc0fda5e5814)
 
-Matriks B:
+## Invers Matrix A
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/cfb78cb4-4951-4947-98b4-e7a4618086df)
 
-- [ 2/3 1/5 3/4 ]
-- [ 1/4 1/3 1/2 ]
-- [ 1/2 3/5 1/3 ]
+## Dot Matrix A dan B
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/ccd16ed0-26b3-416c-be88-40f7e1b1e871)
 
-Hasil penjumlahan matriks:
+# Hasil Run Pecahan
+## Pembagian
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/a1b651e3-57c5-442c-8021-9bebb04fb68e)
 
-- [ 7/6 19/20 22/24 ]
-- [ 11/12 21/18 22/16 ]
-- [ 6/8 11/10 13/12 ]
+## Penjumlahan
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/a5308b5e-3863-4172-a79d-3bf4f54ec643)
+
+## Pengurangan
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/04c94496-502a-405c-831f-6b36cda36581)
+
+## Perkalian
+![image](https://github.com/Faathir81/Teori_PBO_Pert06/assets/145968943/9c9878e5-42f8-48da-8bb4-ea87b88155fd)
