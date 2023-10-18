@@ -2,6 +2,9 @@
 Untuk memenuhi tugas teori PBO pertemuan 6
 
 # Hasil Run
+
+Matriks A:
+
 -  [ 1/2 3/4 1/6 ]
 -  [ 2/3 5/6 7/8 ]
 -  [ 1/4 1/2 3/4 ]
